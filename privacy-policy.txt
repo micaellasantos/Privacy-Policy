@@ -1,0 +1,49 @@
+
+Privacy Policy
+Effective Date: December 9, 2024
+ Last Updated: December 9, 2024
+In NTCeen, we value your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our application.
+
+1. Information We Collect
+We collect the following personal information when you register and use our app:
+Email Address: For account creation and communication.
+Name: To personalize your user experience.
+Password: To secure your account (encrypted for safety).
+We do not collect any other personal data unless explicitly provided by you.
+
+2. How We Use Your Information
+We use the information collected for the following purposes:
+To create and manage your account.
+To provide access to the app’s features and services.
+To communicate with you about updates, features, or support-related issues.
+To improve the app's functionality based on user data.
+
+3. How We Protect Your Information
+We take the security of your information seriously. Measures we take include:
+Storing sensitive data, like passwords, in encrypted form.
+Using secure server technologies to protect data during transmission.
+Limiting access to your data to authorized personnel only.
+
+
+4. Sharing Your Information
+We do not sell, trade, or rent your personal information to third parties. However, we may share your information:
+When required by law or to comply with legal obligations.
+To protect our rights, property, or safety, or that of others.
+
+5. Your Rights
+You have the right to:
+Access and update your personal information.
+Request the deletion of your account and associated data.
+Opt-out of communications by contacting us.
+
+6. Third-Party Services
+We may use third-party services (e.g., Firebase) to manage user authentication and data storage. These services have their own privacy policies, and we encourage you to review them.
+
+7. Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. Any changes will be communicated through the app or via email. Continued use of the app after changes signifies acceptance of the updated Privacy Policy.
+
+8. Contact Us
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+Email: 8213946@ntc.edu.ph
+
+
